@@ -1,6 +1,10 @@
 # SCT_WD_2
+
 Stopwatch Web Application
+
+
 Project Files Description
+
 📄 index.html
 
 This file serves as the main structure of the stopwatch application.
