@@ -1,6 +1,6 @@
 # SCT_WD_2
 
-Stopwatch Web Application
+**Stopwatch Web Application**
 
 
 Project Files Description
